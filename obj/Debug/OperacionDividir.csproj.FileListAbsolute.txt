@@ -1,0 +1,6 @@
+C:\Users\Andres\source\repos\Nacho Opera\bin\Debug\Nacho Opera.dll
+C:\Users\Andres\source\repos\Nacho Opera\bin\Debug\Nacho Opera.pdb
+C:\Users\Andres\source\repos\Nacho Opera\obj\Debug\OperacionDividir.csproj.AssemblyReference.cache
+C:\Users\Andres\source\repos\Nacho Opera\obj\Debug\OperacionDividir.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Nacho Opera\obj\Debug\Nacho Opera.dll
+C:\Users\Andres\source\repos\Nacho Opera\obj\Debug\Nacho Opera.pdb
